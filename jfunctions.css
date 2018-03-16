@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    display: inline-block;
+    margin-right: 0px;
+    margin-left: auto;
+}
+#wrapper {
+    width: 1000px;
+    margin: 0px auto;
+}
+#wrapper div {
+    border-bottom: 2px solid grey;
+    padding: 20px 10px;
+}
+#wrapper div div {
+    display: inline-block;
+    border: none;
+    margin-right: 0px;
+    margin-left: auto;
+    width: 650px;
+    text-align: center;
+}
+div button {
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px rgb(233, 228, 228);
+    width: 100px;
+}
+.addedClass {
+    background-color: steelblue;
+    border-radius: 10px;
+    padding: 10px;
+}
